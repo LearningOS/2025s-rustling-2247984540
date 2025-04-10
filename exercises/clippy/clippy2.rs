@@ -4,7 +4,7 @@
 // hint.
 
 
-
+//// Here's a couple more easy Clippy fixes, so you can see its utility.
 fn main() {
     let mut res = 42;
     let option = Some(12);
