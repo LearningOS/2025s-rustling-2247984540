@@ -42,7 +42,7 @@ mod Foo {
 
     #[no_mangle]
     #[link_name = "my_demo_function"]
-   
+   // // This is an alias for `my_demo_function`.
     pub fn my_demo_function_alias(a: u32) -> u32 {
         a
     }
